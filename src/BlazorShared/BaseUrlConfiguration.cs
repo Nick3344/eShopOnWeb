@@ -1,4 +1,4 @@
-﻿namespace BlazorShared;
+﻿namespace BlazorShared; 
 
 public class BaseUrlConfiguration
 {
